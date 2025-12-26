@@ -1,2 +1,2 @@
 # emoji-converter-python
-Simple Emoji Converter Using Python
+A beginner-friendly Python project that converts text symbols into emojis.
